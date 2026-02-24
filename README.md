@@ -15,3 +15,14 @@ Clean UI. Smart backend. Real-world ready.
 📦 Real-time cart logic.
 
 GreenCart is not just another CRUD project — it’s a complete shopping ecosystem.
+
+🧠 Built With Power Stack
+🔥 Frontend
+
+React.js
+
+HTML5
+
+CSS3
+
+Bootstrap
