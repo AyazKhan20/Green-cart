@@ -36,3 +36,14 @@ Express.js
 🗄️ Database
 
 MongoDB
+
+✨ Core Features
+
+✅ User Authentication (Register / Login)
+✅ JWT-based Secure Authorization
+✅ Product Listing & Categories
+✅ Add to Cart / Remove from Cart
+✅ Quantity Management
+✅ Order Placement
+✅ Admin Product Management
+✅ Responsive Mobile-First Design
