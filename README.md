@@ -61,4 +61,12 @@ Built with a modern shopping experience in mind.
 ✔ Scalable design
 ✔ Resume-ready production project
 
+🧑‍💻 Developer
+
+Ayaz Khan Pathan
+MCA | Full Stack Developer
+
+🔗 GitHub: https://github.com/AyazKhan20
+
+🔗 LinkedIn: https://linkedin.com/in/ayazkhan-pathan-43302b357
 
