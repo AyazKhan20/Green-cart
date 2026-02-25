@@ -47,3 +47,10 @@ MongoDB
 ✅ Order Placement
 ✅ Admin Product Management
 ✅ Responsive Mobile-First Design
+
+🖼️ UI Vibes
+
+Minimal. Clean. Smooth transitions.
+Built with a modern shopping experience in mind.
+
+
