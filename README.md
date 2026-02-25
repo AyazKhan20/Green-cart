@@ -53,4 +53,12 @@ MongoDB
 Minimal. Clean. Smooth transitions.
 Built with a modern shopping experience in mind.
 
+📊 Why This Project Stands Out
+
+✔ Real-world MERN architecture
+✔ Clean code structure
+✔ Proper API separation
+✔ Scalable design
+✔ Resume-ready production project
+
 
